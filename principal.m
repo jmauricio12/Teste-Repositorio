@@ -1,6 +1,7 @@
 clc
 close all
 clear
+%Juan
 N = 20;
 f = 1;
 fs = 20;
